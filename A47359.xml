@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dangerous errors in several late printed Bibles to the great scandal, and corruption of sound and true religion / discovered by William Kilburne ...</title>
+            <author>Kilburne, William.</author>
+         </titleStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47359</idno><idno type="EEBO-CITATION">11931231</idno>
+  <idno type="VID">51133</idno>
+  <idno type="EEBO-PROQUEST">2248539707</idno>
+  
+            <idno type="STC">Wing K435</idno>
+            <idno type="STC">ESTC R16990</idno>
+            <idno type="OCLC">11931231</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A47359)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51133)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 816:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Dangerous errors in several late printed Bibles to the great scandal, and corruption of sound and true religion / discovered by William Kilburne ...</title>
+                  <author>Kilburne, William.</author>
+               </titleStmt>
+               <extent>15 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Finsbury :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Thelological Seminary Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="uniform_title">Bible. --  English --  Versions --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:51133:1"/>
+            <pb facs="tcp:51133:1"/>
+            <p>DANGEROUS ERRORS IN Several late printed BIBLES To the great scandal, and cor<g ref="char:EOLhyphen"/>ruption of sound and true Re<g ref="char:EOLhyphen"/>ligion.</p>
+            <p>Discovered by WILLIAM KILBURNE Gent.</p>
+            <q>
+               <l>Ex parvâ scintillâ magnum incendium.</l>
+               <l>Principiis obsta, serò medicina paratur,</l>
+               <l>Cùm mala per longas invaluere moras,</l>
+            </q>
+            <p>Printed at <hi>Finsbury Anno</hi> 1659</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:51133:2"/>
+            <pb n="3" facs="tcp:51133:2"/>
+            <head>An Animadversion to all good Christians of this Common-wealth, discovering (amongst many Thousands of others) some pernicious, erroneous, and corrupt <hi>Erratas,</hi> Escapes, and Faults in seve<g ref="char:EOLhyphen"/>rall Impressions of the <hi>Holy-Bible</hi> and <hi>Testa<g ref="char:EOLhyphen"/>ment,</hi> within these late years, commonly vended and dispersed to the great scandal of Religion, but more particularly in the Impressions of <hi>Henry Hills,</hi> and <hi>John Field</hi> Printers; To the intent that either in reading of any such already bought, or buying the like hereafter, they may be well advi<g ref="char:EOLhyphen"/>sed, for the good of their own Souls, and the Ge<g ref="char:EOLhyphen"/>nerations that shall succeed.</head>
+            <byline>Published by <hi>William Kilburne</hi> Gent.</byline>
+            <opener>
+               <salute>(Honorable and elect Christians)</salute>
+            </opener>
+            <p>THe sacred Scriptures are the Crystalline Fountaine, from whence all the lucid streams, and Rivulets of pure Religion are derived and conducted into the Cisterns and Receptacles of the hearts and understandings of Christians; whereby they may be directed, and instructed to lead a gracious and holy life here, and prepared for, and assured of a glorious and eternal life hereafter: And what accurate diligence and venerable respect the antient Jews did use, and bear toward the <hi>Pentateuch,</hi> and other Divine Books of Canonical Scripture, of the old Te<g ref="char:EOLhyphen"/>stament, in accounting the number of words, Syl<g ref="char:EOLhyphen"/>lables
+<pb n="4" facs="tcp:51133:3"/>nay Letters thereof: And also the seduli<g ref="char:EOLhyphen"/>ty of Christians since the death of Christ, (through all the terrible and sanguineous persecutions of cruel Tyrants,) to convey from age to age the Testament of our blessed Saviour, and Writings and Epistles of his Holy Apostles in their purity, (whereby they have been by Gods providence preserved from corruption,) should incite, and invite <hi>us,</hi> (who have received a greater Illumi<g ref="char:EOLhyphen"/>nation, and Revelation, than the Iews, or Pri<g ref="char:EOLhyphen"/>mitive Christians,) carefully to promulge and propagate the word of God in its intrinsecal virtue, and propriety; Considering the many Heresies and false Doctrines professed in our dayes; And that it was the Arch-policy and designe of the Devil in tempting our very Saviour (as <hi>Math.</hi> 4.6. and <hi>Luke</hi> 4.10, 11. compared with <hi>Psal.</hi> 91.11, 12) to pervert, and falsly produce the authority and Parallel of the Scripture: And when as also in the Primitive times one <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> (the least Letter of the Alphabet) occasioned so great a controversie in Gods Church, under the Empire of <hi>Constantine</hi> the Great. For in the Doctrine of the ever-bles<g ref="char:EOLhyphen"/>sed Trinity, in the debates of the <hi>Nicene-Councel, Athanasius,</hi> and the <hi>Orthodox</hi> party held, that Christ was <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and of the same, Essence of God his Father; the <hi>Arians,</hi> and Heterodox, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, making him a meer Creature, and depriving him of his royall Diadem of the eternall Divinity; Which two words differ but in one Letter. And we read <hi>Iudges</hi> 12.6. that the <hi>Gile<g ref="char:EOLhyphen"/>adites</hi> slew of the <hi>Ephraimites</hi> 42000 souls, for
+<pb n="5" facs="tcp:51133:3"/>not pronouncing rightly <hi>Shibboleth,</hi> and missing but in one Aspiration.</p>
+            <p>You may well remember that the zeal &amp; care of the late Bishops (especially of reverend and learned Doctor <hi>Usher</hi>) was such, that for the omission in one impression of the <hi>Common-prayer</hi> of the <hi>Negative</hi> word <hi>[Not]</hi> in the seventh Commandement, the Printer was fined 2000. or 3000<seg rend="sup">l.</seg> in the late Kings time, as I have heard, which hapned long before the late wars began: In which time through the absence of the Kings Printers, and cessation of Bi<g ref="char:EOLhyphen"/>ble-Printing at <hi>London,</hi> many erroneons English Bibles were printed in, and imported from <hi>Holland;</hi> which, being diligently compared by the late <hi>Assem<g ref="char:EOLhyphen"/>bly of Divines,</hi> were reported to the <hi>Parliament</hi> in 1643. to be corrupt, &amp; dangerous to Religion; exhi<g ref="char:EOLhyphen"/>biting to them these three faults only; for which the impression was suppressed and condemned to the fire, and a Prohibition made against the Impor<g ref="char:EOLhyphen"/>tation of any English Bibles for the future. <hi>viz.</hi>
+            </p>
+            <q>
+               <bibl>Gen. <hi>36.24.</hi>
+               </bibl>
+               <p>This is that Ana that found Rulers in the wilderness — <hi>for</hi> Mules.</p>
+            </q>
+            <q>
+               <bibl>Ruth <hi>4.13.</hi>
+               </bibl>
+               <p>The Lord gave her Corruption — <hi>for</hi> Conception.</p>
+            </q>
+            <q>
+               <bibl>Luke. <hi>21.28.</hi>
+               </bibl>
+               <p>Look up, and lift up your heads, for your Condemnation draweth nigh. — <hi>for</hi> Redemp<g ref="char:EOLhyphen"/>tion.</p>
+            </q>
+            <p>This Affair also occasioned the said Assembly by direction of the Parliament (as is very well known to Mr. <hi>Philip Nye,</hi> &amp;c.) to propose the Bible printing to several Stationers of <hi>London;</hi> who re<g ref="char:EOLhyphen"/>fusing that laudable work, the same was commend<g ref="char:EOLhyphen"/>ed
+<pb n="6" facs="tcp:51133:4"/>to Mr. <hi>William Bentley</hi> Printer in <hi>Finsbury,</hi> and his partners, who have so exactly, and commen<g ref="char:EOLhyphen"/>dably imprinted several volumes by Authority of Parliament in 8<seg rend="sup">o</seg>. and 12. in the years 1646 48.51, &amp;c. (according to the Authentique corrected <hi>Cam<g ref="char:EOLhyphen"/>bridge Bible,</hi> revised <hi>Mandato Regio,</hi> by the learn<g ref="char:EOLhyphen"/>ed Doctor <hi>Ward,</hi> Doctor <hi>Goad</hi> of <hi>Hadley,</hi> Mr. <hi>Boyse,</hi> Mr <hi>Mead,</hi> &amp;c. and printed by the elabo<g ref="char:EOLhyphen"/>rate industry of <hi>Thomas Buck</hi> Esquire, and Mr. <hi>Roger Daniel,</hi> in <hi>folio</hi> in 1638.) that some small remainders of them yet unsold, are now daily expo<g ref="char:EOLhyphen"/>sed at 12<seg rend="sup">s.</seg>
+               <hi>per</hi> Book in quires unbound by the Stationers (for the fairness of the Print, and truth of the Editions,) which Mr. <hi>Bentley</hi> afforded here<g ref="char:EOLhyphen"/>tofore at 2<seg rend="sup">s.</seg>
+               <hi>per</hi> Book, or thereabouts; untill he hath been unjustly obstructed by Mr. <hi>Hills</hi> and Mr. <hi>Field,</hi> who have endeavoured, by abusing the Au<g ref="char:EOLhyphen"/>thority of the State, to <hi>Monopolize</hi> the sole print<g ref="char:EOLhyphen"/>ing of Bibles to themselves, since the latter end of the year 1655. and have raised the prices to ex<g ref="char:EOLhyphen"/>cessive dear rates, to the very great scandal of Re<g ref="char:EOLhyphen"/>ligion, and detriment of the Common-wealth; For as much as they have printed and dispersed in these late years divers Editions in severall vo<g ref="char:EOLhyphen"/>lumes under their several Names and Titles, that if you be pleased to compare and examine the same, you will find amongst many great numbers of others, verbal, literal, and in the points of di<g ref="char:EOLhyphen"/>stinction, these grosse and notorious <hi>Erratas,</hi> Es<g ref="char:EOLhyphen"/>capes, and Faults following; Which I recommend to your ingenuous consideration and benevolent construction, having heretofore represented some
+<pb n="7" facs="tcp:51133:4"/>of them to his late <hi>Highnesse,</hi> and the most of them to the late <hi>Parliament.</hi>
+            </p>
+            <p n="1">1. In a Pearl-Bible printed by <hi>John Field</hi> at <hi>London</hi> in 1653. in volume 24, (very small to car<g ref="char:EOLhyphen"/>ry in pockets) whereof there have been near 20000 dispersed, are these egregious faults, <hi>viz.</hi>
+            </p>
+            <p>All the Dedications and Titles of <hi>David</hi>'s Psalms are wholly left out, being part of the ori<g ref="char:EOLhyphen"/>ginal Text in <hi>Hebrew,</hi> and intimating the cause, and occasion of the writing and composing those Psalms, whereby the matter may be better illu<g ref="char:EOLhyphen"/>strated.</p>
+            <q>
+               <bibl>John <hi>9.21.</hi>
+               </bibl>
+               <p>Or who hath opened his eyes we know not. <hi>These words are wholly omitted.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>Rom. <hi>6.13.</hi>
+               </bibl>
+               <p>Neither yield ye your members as instruments of Righteousness unto sinne. <hi>for</hi> unrigh<g ref="char:EOLhyphen"/>teousness.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>1</hi> Cor. <hi>6.9.</hi>
+               </bibl>
+               <p>Know ye not that the unrighteous shall inherit the Kingdome of God? <hi>for</hi> shall not inherit?</p>
+            </q>
+            <p>This is the foundation of a damnable Doctrine: for it hath been averred by a reverend Doctor of Divinity to several worthy persons, that many <hi>Libertines</hi> and licentious people did produce, and urge this Text from the authority of this corrupt Bible against his mild Reproofs, in justification of their vicious and inordinate Conversations.</p>
+            <p n="2">2. In a small Bible in volume 12. printed by <hi>John Field</hi> at <hi>London</hi> in 1655. whereof great num<g ref="char:EOLhyphen"/>bers have been dispersed.</p>
+            <p>A Catalogue of 91 notorious faults, amongst many others therein, were presented by Mr. <hi>Hills</hi> to Mr. <hi>Secretary of Estate,</hi> and by him recommend<g ref="char:EOLhyphen"/>ed
+<pb n="8" facs="tcp:51133:5"/>to an honorable Member of the late Parliament. One whereof is 2 <hi>Cor.</hi> 13.6. <hi>But I trust that ye shall know that we are not Reprobates.</hi> which verse is wholly omitted.</p>
+            <p n="3">3. In another Bible in volume 12. printed also by <hi>John Field</hi> at <hi>London</hi> in 1655. whereof great numbers have been dispersed.</p>
+            <p>Upon my reading of the six first Chapters only in St. <hi>Matthew,</hi> I found 10. notable faults, and have received general information from persons of worth, that the residue of the Book is correspon<g ref="char:EOLhyphen"/>dent; which was evidenced to a Committee of Par<g ref="char:EOLhyphen"/>liament, in so much that they seized them, and prohibited the sale thereof, and of the former Bi<g ref="char:EOLhyphen"/>bles in Mr. <hi>Fields</hi> hands as also of the ensuing Bible, which notwithstanding that restraint, he hath since divulged</p>
+            <p n="4">4. In a Bible in volume 12. printed by <hi>John Field</hi> at <hi>London</hi> in 1656. you may observe these faults, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>Isai.</hi> 10.26. <hi>Cap.</hi> 13.3. <hi>Cap.</hi> 14.24. <hi>Cap.</hi> 17.8. <hi>Cap.</hi> 28.17. <hi>And the waters shall overthrow the hiding place.</hi> for <hi>overflow. Cap.</hi> 48.19. <hi>Cap.</hi> 49.22. and so generally through the whole old Te<g ref="char:EOLhyphen"/>stament. But in the new Testament be pleased to peruse these, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>Luk.</hi> 23.42, 51. <hi>Cap,</hi> 24.24. <hi>Joh.</hi> 1.51. <hi>Cap.</hi> 2.9, 10. <hi>Cap.</hi> 3.21. <hi>Cap.</hi> 5.2. <hi>The pool Bethsaida.</hi> for <hi>Bethesda. ver.</hi> 23. <hi>As they honour their Father.</hi> for <hi>the Father</hi> Emphatically. <hi>Cap.</hi> 6.29, 33. <hi>Cap.</hi> 7.39. <hi>But this spake he of the Spirits,</hi> which they that believe on him should receive, for <hi>Spirit,</hi>
+               <pb n="9" facs="tcp:51133:5"/>speaking onely of the Holy Ghost, as appeareth in the same verse. <hi>Cap.</hi> 13.22. <hi>Cap.</hi> 14.13, 21. <hi>And he that loveth me, shall loved.</hi> for <hi>shall be loved of my Father. Cap.</hi> 15.17. <hi>These things I commanded,</hi> for <hi>command you. Cap.</hi> 17.12. <hi>That the Scriptures might be fulfilled.</hi> for <hi>Scripture,</hi> speaking of <hi>Iudas</hi> the sonne of perdition, and re<g ref="char:EOLhyphen"/>ferring to <hi>Psal.</hi> 109.8. <hi>Cap.</hi> 19.37. <hi>Cap.</hi> 20.25. <hi>And put my fingers,</hi> for <hi>finger. Cap.</hi> 21.17. <hi>Act.</hi> 1.7. <hi>Cap.</hi> 4.15. <hi>Counsel (or advice,)</hi> for <hi>Councell (or a consistorie.)</hi> And this is often reiterated in other places. <hi>Cap.</hi> 8.36. A very base omission, and false justification of the words to the confusion of the sense. <hi>Cap.</hi> 13.1, 6, 26. <hi>he,</hi> for <hi>they,</hi> a grosse fault. <hi>Rom.</hi> 4.10. <hi>Cap.</hi> 6.23. meer nonsense. 1 <hi>Ioh.</hi> 4.20. 2 <hi>Ioh. ver.</hi> 1. <hi>Rev.</hi> 1.1. <hi>Cap.</hi> 21.10.</p>
+            <p>I might particularize many more, especially in the <hi>Contents;</hi> which generally are falsly perverted, and mutilated to the great impediment, and ob<g ref="char:EOLhyphen"/>struction of the right understanding of the scope and Text of the Chapters.</p>
+            <p n="5">5. In another Minion-Bible in 8<seg rend="sup">o</seg> volume, print<g ref="char:EOLhyphen"/>ed by <hi>Iohn Field</hi> at <hi>Cambridge</hi> in 1657. which fels very much, and very dear, at least for 8 s. 6 d. <hi>per</hi> book.</p>
+            <p>
+               <hi>Psal.</hi> 143.4. <hi>Therefore is my Spirit over,</hi> is wholly omitted in many of them that I have seen. And there are many other faults, as I am well informed, of very great notoriety.</p>
+            <p n="6">6. In a Bible in 120. volume, printed at <hi>London</hi> by <hi>Hen. Hills</hi> and <hi>I. Field,</hi> in <hi>An.</hi> 1656, corrected
+<pb n="10" facs="tcp:51133:6"/>by one Mr. <hi>Robinson</hi> (a <hi>Scotch Rabbi,</hi>) and publish<g ref="char:EOLhyphen"/>ed in an Advertisement by <hi>Mercurius Politicus</hi> 6. <hi>Nov.</hi> 1656. to be incomparable. And in truth I think he was not deceived, (though indeed he a<g ref="char:EOLhyphen"/>bused the Common-wealth;) For I am confi<g ref="char:EOLhyphen"/>dent, if the number of the Impression was as (I am informed) 20000 there are as many faults therein, verbal, literal, and in the difference of the <hi>Italique</hi> words, (to the great corruption of the Text,) and in false points of distinction: so that besides the base paper, and printing, and abridgement, and perversion of the Contents, and transposing and confounding of words, whereby it is very trouble<g ref="char:EOLhyphen"/>some to be read, it is the worst of all the rest that are exposed to your view; as appeared palpably to the Parliament, whereby the sale thereof, <hi>(se<g ref="char:EOLhyphen"/>dente Parliamento)</hi> was inhibited, but since dispers<g ref="char:EOLhyphen"/>ed very much at Countrey Fairs, and Markets by Book-binders and petty Chapmen, being no fit<g ref="char:EOLhyphen"/>ting Book for sale by Stationers in <hi>London;</hi> where<g ref="char:EOLhyphen"/>in you may observe these faults, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>Gen.</hi> 1.21. <hi>Cod.</hi> for <hi>God.</hi> and so in many o<g ref="char:EOLhyphen"/>ther places. <hi>Cap.</hi> 7.3. <hi>Cap.</hi> 10.19. <hi>Cap.</hi> 15.3. <hi>Abraham,</hi> before God changed his name, for <hi>Abram. Cap.</hi> 18.1. <hi>Cap.</hi> 27.45. <hi>Cap.</hi> 34.21. <hi>Cap.</hi> 46.17. <hi>Exod.</hi> 12.42. <hi>Cap.</hi> 16.19. <hi>Cap.</hi> 19.24. <hi>Cap.</hi> 26.8. <hi>Cap.</hi> 29.22. <hi>Cap.</hi> 40. in the Con<g ref="char:EOLhyphen"/>tents. <hi>A Cloud cloudeth.</hi> for <hi>covereth. ver.</hi> 2. <hi>Lev.</hi> 3.6. <hi>Sacrifice of</hi> left out. <hi>Cap.</hi> 7.38. <hi>Cap.</hi> 8.14. <hi>Cap.</hi> 10.18. <hi>Cap.</hi> 11.3. <hi>Cap,</hi> 13.55. <hi>Cap.</hi> 15.20. <hi>Cap.</hi> 22.12. <hi>Cap.</hi> 23.35. <hi>Numb.</hi> 1.10. <hi>Cap.</hi> 6.14. <hi>Ram.</hi> for <hi>Lamb. Cap.</hi> 10.29, <hi>Cap.</hi> 17. in the
+<pb n="11" facs="tcp:51133:6"/>Contents. <hi>Kept.</hi> for <hi>Left. Cap.</hi> 20.12. <hi>Cap.</hi> 23.15. <hi>Cap.</hi> 24.12. <hi>Cap.</hi> 30. in the Contents. <hi>De<g ref="char:EOLhyphen"/>livered.</hi> for <hi>Divorced. Cap.</hi> 31.30. <hi>Sheep</hi> for <hi>Flocks. Cap.</hi> 34.9. <hi>Out,</hi> for <hi>On. Deut.</hi> 5.29. <hi>Cap.</hi> 29.5. <hi>waked.</hi> for <hi>waxen. Cap.</hi> 34.7. A grosse fault. <hi>Joshu.</hi> 3.11. another grand one, <hi>Cap.</hi> 23, 16. <hi>Goods</hi> for <hi>Gods. Judg.</hi> 9.17. <hi>And advanced his life.</hi> for <hi>adventured his life. Cap.</hi> 15.10. <hi>Samon.</hi> for <hi>Samp<g ref="char:EOLhyphen"/>son.</hi> 1 <hi>Sam.</hi> 24.9. 2 <hi>Sam.</hi> 8.12. grosse faults, 1 <hi>King.</hi> 20.6.30. the like, 2 <hi>King.</hi> 3.2. <hi>Cap.</hi> 8.5. The <hi>Chronicles</hi> and <hi>Ezra</hi> are generally false in the proper Names. <hi>Nehem.</hi> 8.17. <hi>Had the Children of Israel done so.</hi> for <hi>Had not. Esther</hi> 4.1. a grosse fault. <hi>Iob</hi> 4.6. <hi>Is not this thy feare, thy confidence, the uprightnesse of thy ways, and thy hope?</hi> for <hi>Is not thy fear, thy confidence, and the uprightnesse of thy ways, thy hope?</hi> The Titles of divers Psalms are falsly named. <hi>Prov.</hi> 29.13. <hi>Yea, he shall give delight thy soul,</hi> for <hi>unto thy soul. Eccles.</hi> 1.1, <hi>Cap.</hi> 8.17. <hi>Yet he shall not find it,</hi> is wholly left out. In the Prophets are great numbers of verbal faults, and omissions, which I pretermit. In the Evangelists are many egregious faults, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>Luk.</hi> 6.22. <hi>Cap.</hi> 7.43. A base squabble and nonsense. <hi>Cap.</hi> 9, 13. <hi>Loves.</hi> for <hi>Loaves. Cap.</hi> 16.17. <hi>Title of the Law.</hi> for <hi>Tittle. Cap.</hi> 19.44. <hi>Ioh.</hi> 3.17. <hi>For God sent not his</hi> Sou <hi>into the world,</hi> for <hi>Sonne. ver.</hi> 21. <hi>Cap.</hi> 6.11. <hi>Loves,</hi> for <hi>Loaves. Cap.</hi> 18.9, 36. grosse faults, and a dangerous corruption, <hi>viz. If my Kingdome were of this Word.</hi> for <hi>World. Acts</hi> 2.27. <hi>Because thou wilt not leave my</hi> Oul <hi>in Hell.</hi> for <hi>Soul, &amp;c. Cap.</hi> 9.36. <hi>Cap.</hi> 10.14. <hi>Cap.</hi>
+               <pb n="12" facs="tcp:51133:7"/>21.2. Nonsense. <hi>Cap.</hi> 24.24. <hi>Iew.</hi> for <hi>Iew esse Cap.</hi> 26.2. Nonsense. <hi>Rom.</hi> 1.7. <hi>Cap.</hi> 9.23. <hi>Cap.</hi> 11.14, 32. A grosse Error, <hi>viz. Concluded all in un<g ref="char:EOLhyphen"/>beliefe.</hi> for <hi>them all,</hi> to wit, <hi>the Iews.</hi> 1 <hi>Cor.</hi> 1.2, 14. <hi>Cap.</hi> 3.15. <hi>Cap.</hi> 9.22. <hi>men.</hi> for <hi>means.</hi> 2 <hi>Cor.</hi> 8.9. <hi>Cap.</hi> 11.32. <hi>Of the Damascens.</hi> left out. 2 <hi>Thess.</hi> 2.16. <hi>Heb.</hi> 9.8.15. <hi>Cap.</hi> 12.1. 1 <hi>Pet.</hi> 2. Nonsense in the Contents. <hi>Exhorteth.</hi> for <hi>Dehort<g ref="char:EOLhyphen"/>eth. ver.</hi> 21. <hi>Leaving</hi> us as <hi>an example.</hi> A dange<g ref="char:EOLhyphen"/>rous Error. 2 <hi>Pet.</hi> 1.11.19. 1 <hi>Ioh.</hi> 2.24. <hi>Cap.</hi> 4.10. <hi>Iude. ver.</hi> 4. <hi>Rev.</hi> 9.18. <hi>Cap.</hi> 17.4, 14. <hi>Cap.</hi> 19.10. <hi>Cap.</hi> 22.17.</p>
+            <p n="7">7. Moreover during the time of the late Parli<g ref="char:EOLhyphen"/>ament, great numbers of Bibles in a large 12<seg rend="sup">o</seg> vo<g ref="char:EOLhyphen"/>lume were imported from <hi>Holland</hi> in 1656. with this false Title, (<hi>Imprinted at</hi> London <hi>by Rob. Barker &amp;c. Anno</hi> 1638.) wherein Mr, <hi>Kiffin</hi> and Mr. <hi>Hills</hi> cannot be excused, (if reports be true,) being contrary to the several Acts of Parliament of 20<seg rend="sup">o</seg>, <hi>Sep.</hi> 1649. and 7. <hi>Janu,</hi> 1652. for regulating of Printing. Wherein are so many notorious <hi>Erratas,</hi> false English, Nonsense, and Corruptions, that in reading part of <hi>Genesis,</hi> I found 30. grand faults, as <hi>Cap.</hi> 27.16. <hi>Mouth of his neck,</hi> for <hi>Smooth of his neck. Cap.</hi> 29.13. <hi>She.</hi> for <hi>He ran to meet him. Cap.</hi> 30.40. <hi>Put them unto.</hi> for <hi>Put them not unto Labans Cattle.</hi> And in reading <hi>Ecclesiastes, Canti<g ref="char:EOLhyphen"/>cles,</hi> and the first 27. Chapters of <hi>Isaiah,</hi> I found almost an hundred grosse faults, which I did spe<g ref="char:EOLhyphen"/>cifie to the <hi>Parliament,</hi> and therefore omit them here; The very Importation of the Books being an offence contrary to the said Statutes, and
+<pb n="13" facs="tcp:51133:7"/>ought deservedly to be suppressed; which notwith<g ref="char:EOLhyphen"/>standing are dispersed in the Countrey as afore<g ref="char:EOLhyphen"/>said.</p>
+            <p>You may also take notice of another fault disco<g ref="char:EOLhyphen"/>vered to me by a Reverend Minister, escaped in a 4<seg rend="sup">o</seg>. Bible of <hi>Iohn Fields,</hi> printed at <hi>London,</hi> (a<g ref="char:EOLhyphen"/>mongst many other faults therein,) <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>Psal.</hi> 105.29. <hi>He turned their waters into blood, and slew their Flesh,</hi> for <hi>Fish.</hi>
+            </p>
+            <p>And in the singing Psalms by him printed, bound up with several volumes of his Bibles, amongst others, see <hi>Psalm</hi> 67.2. <hi>That all the earth may know the way to worldly wealth.</hi> for <hi>Godly wealth.</hi>
+            </p>
+            <p>Having thus represented the premisses to your own ocular demonstration; and considering the Curse pronounced, <hi>Rev.</hi> 22. <hi>ver.</hi> 18, 19. and other Texts of Scripture to that purpose: as also that the pious and <hi>Orthodox</hi> Ministers do generally complain against the said erroneous Bibles, I submit the whole matter to you; Praying God to inflame your hearts with a fervent love of the truth, and confirme you in the true faith of Christianity; And that it will graciously please his divine Majesty of his infinite goodnesse, and mercy, to blesse this Common-wealth with the like dispensation of his blessed Word in our own proper Dialect, and speech, as it is in the original <hi>Idiomes,</hi> by the Zeal and Patronage of his <hi>Highness,</hi> and the <hi>Parliament;</hi> And that for the private Emolument of any per<g ref="char:EOLhyphen"/>sons (how great soever,) the Scriptures may not be hereafter carelesly, and erroneously printed, where<g ref="char:EOLhyphen"/>by
+<pb n="14" facs="tcp:51133:8"/>to save the charges of good Correction, and Printing, as may be plainly proved by such Bibles, which have been printed in late years, or else (as is pretended) the profit will not countervaile the charge: For (as it is credibly reported,) Mr. <hi>Hills</hi> and Mr. <hi>Field</hi> have several times affirmed, that they are engaged to pay 500<seg rend="sup">l</seg>
+               <hi>per Annum.</hi> to some, whose names out of respect to them I forbear to mention, over and above 100<seg rend="sup">l</seg>
+               <hi>per Annum.</hi> to Mr. <hi>Marchamont Needham,</hi> and his wife, out of the pro<g ref="char:EOLhyphen"/>fits of the sale of their Bibles, deriding, insulting, &amp; triumphing over others of the Printing Mysterie, out of their confidence in their great Friends and purse, as it is said, as if they were lawlesse, and free (notwithstanding the truth of the premisses and other grand Enormities often committed by them) both from offence and punishment, to the great di<g ref="char:EOLhyphen"/>shonour of the Common-wealth in general, and dammage of many private persons in particular.</p>
+            <p>For redresse of which inconvenience, and for that I am informed by a Gentleman of Eminence, that upon his own reading of one of their late print<g ref="char:EOLhyphen"/>ed Bibles, he hath noted and observed above 6000. faults therein, I humbly propose (out of my un<g ref="char:EOLhyphen"/>feigned respects to the publique good,) that the future printing of Bibles may neither be solely ap<g ref="char:EOLhyphen"/>propriated to Mr. <hi>Hills</hi> &amp; Mr. <hi>Field,</hi> on pretence of their purchasing the translated coppy, made in <hi>An.</hi> 1611<seg rend="sup">o</seg>. and unduely entring it lately as their pri<g ref="char:EOLhyphen"/>vate Copy, and for their sole propriety in the Stationers Register; For that it is neither rational, nor political, that the State should be devested of
+<pb n="15" facs="tcp:51133:8"/>the Patronage, and protection of the word of God, translated into English primitively at their charge, &amp; permitted to be printed onely <hi>cum privilegio Re<g ref="char:EOLhyphen"/>gali</hi> (being the national and common Evidence of our Religion, and like an <hi>Elysian flower</hi> of Supre<g ref="char:EOLhyphen"/>macie) &amp; that we should make our defence there<g ref="char:EOLhyphen"/>of by and under the private and personal Title of Mr. <hi>Hills</hi> and Mr. <hi>Field,</hi> and their Assignes for per<g ref="char:EOLhyphen"/>petuity. Nor secondly, that the Bible-printing may be left again so loosely, and irregularly, (as of late years it was, and is now in designe and project a<g ref="char:EOLhyphen"/>gain) to the liberty of any persons free of the Stati<g ref="char:EOLhyphen"/>oners Company, or qualified to print, for that then a greater mischief will ensue, than at present, as common reason will demonstrate. But thirdly, that such Printers only, as have heretofore dis<g ref="char:EOLhyphen"/>charged themselves with the greatest care and con<g ref="char:EOLhyphen"/>science, &amp; for the honor, and best accommodation and service of the Common-wealth either at <hi>Lon<g ref="char:EOLhyphen"/>don</hi> or <hi>Cambridge,</hi> and have also had the full appro<g ref="char:EOLhyphen"/>bation, and allowance of Parliament, in and for printing of Bibles, &amp; such others as shalbe thought meet (not exceeding in the whole, some competent number of able Master-printers) may be hereafter authorized, and permitted to print the Bible, under the States priviledge only, and not as their own pri<g ref="char:EOLhyphen"/>vate Copy, under such qualifications, and provisi<g ref="char:EOLhyphen"/>ons for good Correction, Workmanship, and price, as shalbe expedient for the better ordering and ac<g ref="char:EOLhyphen"/>complishing of such an honorable, laudable, and weighty work and imployment.</p>
+            <closer>
+               <dateline>
+                  <hi>London,</hi>
+                  <date>1<seg rend="sup">o</seg>
+                     <hi>Ianuaij.</hi> 1659. <hi>Stylo Romano.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
